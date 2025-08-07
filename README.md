@@ -1,1 +1,1 @@
-# HW-Black-Jack-and-RL
+# HW-Black-Jack-and-Reinforcement-Learning
